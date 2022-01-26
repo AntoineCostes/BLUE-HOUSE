@@ -1,0 +1,4 @@
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/AntoineCostes/UDPuppet.git
+	branch = bluehouse
