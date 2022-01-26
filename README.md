@@ -1,10 +1,14 @@
 # Self-service vending machine for time travelers
 
-Street art post-pandemic project
+Post-pandemic art / street interactive installation
 
-https://www.behance.net/gallery/135711283/Blue-House-2189
+More info on https://www.behance.net/gallery/135711283/Blue-House-2189
 
-## Raspberry Setup from Buster Lite
+## Raspberry Image
+
+https://antoinecostes.net/files/BLUEHOUSE.img
+
+## Manual Setup from Buster Lite
 
 #### update & install lightdm
 `sudo apt-get update && sudo apt-get upgrade -y`
